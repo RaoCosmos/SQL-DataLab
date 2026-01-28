@@ -17,7 +17,7 @@ Each project's purpose is to demonstrate analytics approach, problem solving, qu
   
 🛠️ Skills used
 
-SQL (PostgreSQL, MySQL) – complex joins, Materialized Views, CTEs, window functions, query optimization
+SQL (BigQuery, PostgreSQL, MySQL) – complex joins, Materialized Views, CTEs, window functions, query optimization
 
 Data Modeling – schema design, normalization, Partitioning, dimensional modeling
 

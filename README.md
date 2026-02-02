@@ -1,4 +1,4 @@
-#SQLHub
+#SQLDataLab
 
 Hi,
 This repository is a collection of my work where I explore various public datasets using SQL and related data tools.
@@ -11,6 +11,7 @@ Each project's purpose is to demonstrate analytics approach, problem solving, qu
 - Retail Sales
 - FMCG
 - Sports -🏎️ Formula 1 Analytics [My Favorite]
+- imdb - Data cleaning and modelling
 - 🔗 Data Harmonization - wrangling, data pipelines
 - Data Quality Checks
 - Data Standardization
